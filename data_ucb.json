@@ -3,7 +3,7 @@
   "location": "Putera Jaya, Bandar Permaisuri, 22100 Setiu, Terengganu, Malaysia",
   "contact": {
     "phone": ["+6096097102", "+60194101400"],
-    "email": "[email protected]",
+    "email": "[info@ucbestari.edu.my]",
     "website": "https://www.ucbestari.edu.my"
   },
   "admission": {
@@ -99,4 +99,52 @@
     },
     "processing_fee_foreigner": "RM400 sebulan"
   }
+
+   "senat_universiti": [
+    {
+      "nama": "Prof. Madya Ir. Dr. Mustafa bin Salleh",
+      "jawatan": "Naib Canselor"
+    },
+    {
+      "nama": "Prof. Madya Abdul Razak bin Salleh",
+      "jawatan": "Penolong Naib Canselor (Hal Ehwal Pelajar & Alumni)"
+    },
+    {
+      "nama": "Prof. Madya Norsham binti Mohamed",
+      "jawatan": "Pendaftar"
+    },
+    {
+      "nama": "Iskandar Arash bin Mahmod@Ariffin",
+      "jawatan": "Bendahari"
+    },
+    {
+      "nama": "Suzana binti Mohamed",
+      "jawatan": "Pustakawan"
+    },
+    {
+      "nama": "Prof. Madya Dr. Sudirman bin Abdul Fatah",
+      "jawatan": "Dekan Fakulti Pengajian Islam"
+    },
+    {
+      "nama": "Annura binti Ibrahim",
+      "jawatan": "Dekan Fakulti Sains Sosial"
+    },
+    {
+      "nama": "Prof. Madya Irwan bin Yusof",
+      "jawatan": "Dekan Fakulti Ekonomi dan Pengurusan"
+    },
+    {
+      "nama": "Nurul Izzah binti Maharuddin",
+      "jawatan": "Dekan Fakulti Digital Teknologi"
+    },
+    {
+      "nama": "Prof. Madya Dr. Wan Noorwatie binti Wan Ibrahim",
+      "jawatan": "Pengarah Pusat Pengajian Siswazah"
+    },
+    {
+      "nama": "Norazlinawaty binti Abdullah",
+      "jawatan": "Pengarah Jabatan Sains Kejururawatan"
+    }
+  ]
+}
 }
