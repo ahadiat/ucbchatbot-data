@@ -1,0 +1,102 @@
+{
+  "university": "Universiti College Bestari",
+  "location": "Putera Jaya, Bandar Permaisuri, 22100 Setiu, Terengganu, Malaysia",
+  "contact": {
+    "phone": ["+6096097102", "+60194101400"],
+    "email": "[email protected]",
+    "website": "https://www.ucbestari.edu.my"
+  },
+  "admission": {
+    "registration_fee": "RM200",
+    "insurance_fee": "RM30",
+    "meal_program": "Program Dapur Minda – Makan RM3 tiga kali sehari",
+    "hostel": "Penginapan percuma selama 1 tahun",
+    "allowance_foundation": "Elaun mandiri RM900 (Asasi, 1 tahun)",
+    "fee_discounts": {
+      "orphan": "Diskaun 10% yuran untuk anak yatim",
+      "AIM_children": "Diskaun 5% yuran untuk anak AIM"
+    },
+    "application_steps": [
+      "Isi borang permohonan atas talian di laman rasmi",
+      "Sediakan dokumen sokongan (SPM/STPM/Asasi)",
+      "Mohon pinjaman/ tajaan seperti MARA atau PTPTN jika layak",
+      "Tunggu pengesahan & arahan pendaftaran dari UCB"
+    ]
+  },
+  "financial_aid": {
+    "loans": ["PTPTN", "MARA"],
+    "foundation_scholarship": "Biasiswa yuran Asasi",
+    "special_offers": "Potongan khas & yuran pendaftaran RM100 untuk anak yatim atau miskin"
+  },
+  "programs": {
+    "levels": ["Asasi", "Diploma", "Ijazah Sarjana Muda", "Sarjana", "PhD"],
+    "faculties": {
+      "Ekonomi & Pengurusan": {
+        "programs": ["Pentadbiran Perniagaan (Kepujian)", "Ekonomi (Kepujian)", "Kewangan Islam (Kepujian)", "Diploma Perakaunan", "Diploma Pengurusan Pelancongan", "Diploma Pengajian Perniagaan"],
+        "duration_years": [3, 3, 3, 3, 3, 3]
+      },
+      "Teknologi Maklumat & Sains Komputer": {
+        "programs": ["Sains Komputer (Kepujian)", "Teknologi Maklumat (Kepujian)"],
+        "duration_years": [3, 3]
+      },
+      "Pengajian Islam & Sosial": {
+        "programs": ["Syariah (Kepujian)", "Usuluddin (Dakwah) (Kepujian)", "Kaunseling (Kepujian)"],
+        "duration_years": [3, 3, 3]
+      },
+      "Hospitaliti & Pelancongan": {
+        "programs": ["Pengurusan Hotel", "Seni Kulinari"],
+        "duration_years": [3, 3]
+      },
+      "Kejururawatan": {
+        "programs": ["Kejururawatan (Diploma)"],
+        "duration_years": [3]
+      },
+      "Pendidikan Awal Kanak-kanak": {
+        "programs": ["Pendidikan Awal Kanak-kanak (Diploma)"],
+        "duration_years": [3]
+      },
+      "Ladang": {
+        "programs": ["Pengurusan Ladang (Diploma)"],
+        "duration_years": [3]
+      }
+    },
+    "postgraduate": {
+      "masters": ["Sarjana Pentadbiran Perniagaan", "Sarjana Psikologi Kaunseling"],
+      "phd": ["PhD (Pengurusan dan Pentadbiran)"]
+    }
+  },
+  "fees_summary": {
+    "registration": "RM200 sekali sahaja",
+    "group_insurance": "RM30 sekali",
+    "meal_program": "RM3 x 3 kali sehari",
+    "hostel": "Percuma 1 tahun",
+    "foundation_allowance": "RM900 untuk Asasi",
+    "discounts_applied": true
+  },
+  "student_welfare": {
+    "insurance": true,
+    "health_service": "Perkhidmatan ke klinik/kesihatan",
+    "financial_assistance": "Tabung kebajikan & pinjaman kecemasan",
+    "meal_assistance": "Makan RM3 melalui Program Dapur Minda",
+    "counseling": true,
+    "career_support": true,
+    "religious_activities": true
+  },
+  "accreditation": {
+    "MOHE": true,
+    "MQA": true,
+    "institution_type": "IPTS Waqaf (milik anak yatim/miskin)"
+  },
+  "campus": {
+    "established_years": 23,
+    "facilities": ["Kompleks Hospitaliti & Kulinari", "Makmal Kejururawatan", "Makmal Pendidikan Awal Kanak-kanak", "BestPEC Lab", "Makmal Baik Pulih Komputer", "Bilik Pemprosesan Makanan Sejuk Beku", "Kemudahan terapi berkuda"]
+  },
+  "postgraduate_requirements": {
+    "phd": {
+      "min_cgpa": 3.0,
+      "master_research_or_coursework": true,
+      "additional": "2 tahun pengalaman / 2 jurnal untuk CGPA 2.75–2.99"
+    },
+    "processing_fee_foreigner": "RM400 sebulan"
+  }
+}
