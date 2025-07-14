@@ -35,6 +35,23 @@
     "foundation_scholarship": "Biasiswa yuran Asasi",
     "special_offers": "Potongan khas & yuran pendaftaran RM100 untuk anak yatim atau miskin"
   },
+
+  "registration_documents": [
+    "Salinan Kad Pengenalan / Pasport",
+    "Salinan Sijil SPM / STPM / Asasi atau kelayakan lain yang diiktiraf",
+    "Salinan Surat Tawaran atau Surat Pengesahan Kemasukan (jika ada)",
+    "Salinan Surat Tawaran Pinjaman / Tajaan (contoh: MARA, PTPTN) jika berkenaan",
+    "Gambar berukuran pasport (biasanya 2-4 keping)",
+    "Borang permohonan yang telah diisi lengkap (boleh dapatkan di laman rasmi UCB)",
+    "Bukti pembayaran yuran pendaftaran (RM200) dan caruman insurans (RM30)",
+    "Dokumen lain yang berkaitan seperti surat sokongan atau surat pelepasan (jika perlu)"
+  ],
+  "notes": [
+    "Semua dokumen asal dan salinan perlu dibawa semasa hadir pendaftaran fizikal.",
+    "Pastikan dokumen lengkap untuk mempercepatkan proses pendaftaran.",
+    "Sila rujuk laman rasmi UCB untuk maklumat terkini dan sebarang perubahan."
+  ],
+  
   "programs": {
     "levels": ["Asasi", "Diploma", "Ijazah Sarjana Muda", "Sarjana", "PhD"],
     "faculties": {
