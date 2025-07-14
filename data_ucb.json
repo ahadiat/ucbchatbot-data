@@ -3,15 +3,15 @@
   "location": "Putera Jaya, Bandar Permaisuri, 22100 Setiu, Terengganu, Malaysia",
   "contact": {
     "phone": {
-      "info ucb": [+6096097102],
-      "unit pengambilan": [+60194101400]
+      "info ucb": "+6096097102",
+      "unit pengambilan": "+60194101400"
     },
  
     "whatsapp link": {
       "info ucb": "https://api.whatsapp.com/send?phone=60194101400&text=Info%20UC%20Bestari",
       "unit pengambilan": "https://api.whatsapp.com/send?phone=60199841401"
     },
-    "email": ["info@ucbestari.edu.my"],
+    "email": "info@ucbestari.edu.my",
     "website": "https://www.ucbestari.edu.my"
   },
   "admission": {
