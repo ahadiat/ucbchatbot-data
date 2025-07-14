@@ -6,14 +6,14 @@
       "info ucb": "+6096097102",
       "unit pengambilan": "+60194101400"
     },
- 
-    "whatsapp link": {
-      "info ucb": "https://api.whatsapp.com/send?phone=60194101400&text=Info%20UC%20Bestari",
-      "unit pengambilan": "https://api.whatsapp.com/send?phone=60199841401"
+    "whatsapp_link": {
+      "info ucb": "http://api.whatsapp.com/send?phone=60194101400&text=Info%20UC%20Bestari",
+      "unit pengambilan": "http://api.whatsapp.com/send?phone=60199841401"
     },
     "email": "info@ucbestari.edu.my",
-    "website": "https://www.ucbestari.edu.my"
+    "website": "http://www.ucbestari.edu.my"
   },
+},
   "admission": {
     "registration_fee": "RM200",
     "insurance_fee": "RM30",
