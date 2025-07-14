@@ -3,7 +3,7 @@
   "location": "Putera Jaya, Bandar Permaisuri, 22100 Setiu, Terengganu, Malaysia",
   "contact": {
     "phone": ["+6096097102", "+60194101400"],
-    "email": "[info@ucbestari.edu.my]",
+    "email": ["info@ucbestari.edu.my"],
     "website": "https://www.ucbestari.edu.my"
   },
   "admission": {
@@ -32,15 +32,29 @@
     "levels": ["Asasi", "Diploma", "Ijazah Sarjana Muda", "Sarjana", "PhD"],
     "faculties": {
       "Ekonomi & Pengurusan": {
-        "programs": ["Pentadbiran Perniagaan (Kepujian)", "Ekonomi (Kepujian)", "Kewangan Islam (Kepujian)", "Diploma Perakaunan", "Diploma Pengurusan Pelancongan", "Diploma Pengajian Perniagaan"],
+        "programs": [
+          "Pentadbiran Perniagaan (Kepujian)",
+          "Ekonomi (Kepujian)",
+          "Kewangan Islam (Kepujian)",
+          "Diploma Perakaunan",
+          "Diploma Pengurusan Pelancongan",
+          "Diploma Pengajian Perniagaan"
+        ],
         "duration_years": [3, 3, 3, 3, 3, 3]
       },
       "Teknologi Maklumat & Sains Komputer": {
-        "programs": ["Sains Komputer (Kepujian)", "Teknologi Maklumat (Kepujian)"],
+        "programs": [
+          "Sains Komputer (Kepujian)",
+          "Teknologi Maklumat (Kepujian)"
+        ],
         "duration_years": [3, 3]
       },
       "Pengajian Islam & Sosial": {
-        "programs": ["Syariah (Kepujian)", "Usuluddin (Dakwah) (Kepujian)", "Kaunseling (Kepujian)"],
+        "programs": [
+          "Syariah (Kepujian)",
+          "Usuluddin (Dakwah) (Kepujian)",
+          "Kaunseling (Kepujian)"
+        ],
         "duration_years": [3, 3, 3]
       },
       "Hospitaliti & Pelancongan": {
@@ -49,102 +63,4 @@
       },
       "Kejururawatan": {
         "programs": ["Kejururawatan (Diploma)"],
-        "duration_years": [3]
-      },
-      "Pendidikan Awal Kanak-kanak": {
-        "programs": ["Pendidikan Awal Kanak-kanak (Diploma)"],
-        "duration_years": [3]
-      },
-      "Ladang": {
-        "programs": ["Pengurusan Ladang (Diploma)"],
-        "duration_years": [3]
-      }
-    },
-    "postgraduate": {
-      "masters": ["Sarjana Pentadbiran Perniagaan", "Sarjana Psikologi Kaunseling"],
-      "phd": ["PhD (Pengurusan dan Pentadbiran)"]
-    }
-  },
-  "fees_summary": {
-    "registration": "RM200 sekali sahaja",
-    "group_insurance": "RM30 sekali",
-    "meal_program": "RM3 x 3 kali sehari",
-    "hostel": "Percuma 1 tahun",
-    "foundation_allowance": "RM900 untuk Asasi",
-    "discounts_applied": true
-  },
-  "student_welfare": {
-    "insurance": true,
-    "health_service": "Perkhidmatan ke klinik/kesihatan",
-    "financial_assistance": "Tabung kebajikan & pinjaman kecemasan",
-    "meal_assistance": "Makan RM3 melalui Program Dapur Minda",
-    "counseling": true,
-    "career_support": true,
-    "religious_activities": true
-  },
-  "accreditation": {
-    "MOHE": true,
-    "MQA": true,
-    "institution_type": "IPTS Waqaf (milik anak yatim/miskin)"
-  },
-  "campus": {
-    "established_years": 23,
-    "facilities": ["Kompleks Hospitaliti & Kulinari", "Makmal Kejururawatan", "Makmal Pendidikan Awal Kanak-kanak", "BestPEC Lab", "Makmal Baik Pulih Komputer", "Bilik Pemprosesan Makanan Sejuk Beku", "Kemudahan terapi berkuda"]
-  },
-  "postgraduate_requirements": {
-    "phd": {
-      "min_cgpa": 3.0,
-      "master_research_or_coursework": true,
-      "additional": "2 tahun pengalaman / 2 jurnal untuk CGPA 2.75–2.99"
-    },
-    "processing_fee_foreigner": "RM400 sebulan"
-  }
-
-   "senat_universiti": [
-    {
-      "nama": "Prof. Madya Ir. Dr. Mustafa bin Salleh",
-      "jawatan": "Naib Canselor"
-    },
-    {
-      "nama": "Prof. Madya Abdul Razak bin Salleh",
-      "jawatan": "Penolong Naib Canselor (Hal Ehwal Pelajar & Alumni)"
-    },
-    {
-      "nama": "Prof. Madya Norsham binti Mohamed",
-      "jawatan": "Pendaftar"
-    },
-    {
-      "nama": "Iskandar Arash bin Mahmod@Ariffin",
-      "jawatan": "Bendahari"
-    },
-    {
-      "nama": "Suzana binti Mohamed",
-      "jawatan": "Pustakawan"
-    },
-    {
-      "nama": "Prof. Madya Dr. Sudirman bin Abdul Fatah",
-      "jawatan": "Dekan Fakulti Pengajian Islam"
-    },
-    {
-      "nama": "Annura binti Ibrahim",
-      "jawatan": "Dekan Fakulti Sains Sosial"
-    },
-    {
-      "nama": "Prof. Madya Irwan bin Yusof",
-      "jawatan": "Dekan Fakulti Ekonomi dan Pengurusan"
-    },
-    {
-      "nama": "Nurul Izzah binti Maharuddin",
-      "jawatan": "Dekan Fakulti Digital Teknologi"
-    },
-    {
-      "nama": "Prof. Madya Dr. Wan Noorwatie binti Wan Ibrahim",
-      "jawatan": "Pengarah Pusat Pengajian Siswazah"
-    },
-    {
-      "nama": "Norazlinawaty binti Abdullah",
-      "jawatan": "Pengarah Jabatan Sains Kejururawatan"
-    }
-  ]
-}
-}
+        "duration_years":_
